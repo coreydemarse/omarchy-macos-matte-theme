@@ -1,0 +1,12 @@
+@define-color foreground #cdd6f4;
+@define-color background rgba(0,0,0,0);
+
+window#waybar {
+    background-color: rgba(24, 24, 24, 0.62);
+}
+
+/* want a thicker waybar? uncomment this
+window#waybar * {
+    min-height: 38px;
+}
+*/
